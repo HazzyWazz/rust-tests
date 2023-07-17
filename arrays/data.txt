@@ -1,0 +1,4 @@
+name, age, state
+John Doe, 30, Washington
+Karl Marx, 92, Ohio
+Jane Smith, 42, Minnesota
