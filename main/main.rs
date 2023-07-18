@@ -1,3 +1,5 @@
+// first ever rust i wrote, comment below is for notes
+
 // this is a comment
 /*
 
@@ -33,5 +35,5 @@ fn main() {
 	let name = "hazel";  // define name as string
 	println!("hi {}", name);  // print "hi {name}" to stdout
 	let bree = "bree";
-	println!("hiii {bree}");  //add :? as suffix 
+	println!("hiii {bree}");  //add :? as suffix to debug
 }
