@@ -1,5 +1,6 @@
 use std::fs;
 use std::io::Write; 
+use std::thread;
 
 fn download(link: &str, filename: &str) -> Result<(), Box<dyn std::error::Error>> {
 	let response = reqwest::blocking::get(link)?.bytes()?;
@@ -23,5 +24,8 @@ fn main() {
 		println!("{filename}");
 		// GET data from file url
 		let _ = download(link, filename);
+		println!("downloaded! sleeping...");
+		thread::sleep_ms(1500);
+		println!("slept!\n");
 	}
 }
