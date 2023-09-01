@@ -9,7 +9,7 @@ fn Square(a: u32, b: u32) -> bool {
 }
 
 fn CalcPandA(a: u32, b: u32, Sqaureness: bool) { // parameters are the four sides
-	let Perimiter = a + b; // calculate perimiter
+	let Perimiter = 2 * (a + b); // calculate perimiter
 	let Area = a * b; // calculate area
 	if Sqaureness {  // print it
 		println!("Square\nPerimiter: {Perimiter}\nArea: {Area}");
