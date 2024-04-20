@@ -1,0 +1,2620 @@
+{
+    "data": {
+        "playlistV2": {
+            "__typename": "Playlist",
+            "content": {
+                "__typename": "PlaylistItemsPage",
+                "items": [
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Coda"
+                                                },
+                                                "uri": "spotify:artist:2xcKG6XtsW4NV5zMXWuL6n"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e021f254fca2096ecec14c9ef95",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d000048511f254fca2096ecec14c9ef95",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b2731f254fca2096ecec14c9ef95",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "BLOODY STREAM",
+                                    "uri": "spotify:album:3Jyv6ZSMdzPKSd83r75dLW"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Coda"
+                                            },
+                                            "uri": "spotify:artist:2xcKG6XtsW4NV5zMXWuL6n"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 261920
+                                },
+                                "name": "BLOODY STREAM",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "115800701",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:3BSPKTravgBDjmuG1rIXvw"
+                            }
+                        },
+                        "uid": "34c6a46cecf4eeb7"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Avicii"
+                                                },
+                                                "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e025393c5d3cac806092a9bc468",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d000048515393c5d3cac806092a9bc468",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b2735393c5d3cac806092a9bc468",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Stories",
+                                    "uri": "spotify:album:7dqftJ3kas6D0VAdmt3k3V"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Avicii"
+                                            },
+                                            "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 230613
+                                },
+                                "name": "Waiting For Love",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "1334994513",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:2P4OICZRVAQcYAV2JReRfj"
+                            }
+                        },
+                        "uid": "5e0b01f55024db47"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Lady Gaga"
+                                                },
+                                                "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "The Fame Monster (Deluxe Edition)",
+                                    "uri": "spotify:album:6rePArBMb5nLWEaY9aQqL4"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Lady Gaga"
+                                            },
+                                            "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "EXPLICIT"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 294573
+                                },
+                                "name": "Bad Romance",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "1142513364",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:0SiywuOBRcynK0uKGWdCnn"
+                            }
+                        },
+                        "uid": "5cbf62af88496fbb"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Pat Benatar"
+                                                },
+                                                "uri": "spotify:artist:43mhFhQ4JAknA7Ik1bOZuV"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e022b6cfe6027c990887aadedfc",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d000048512b6cfe6027c990887aadedfc",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b2732b6cfe6027c990887aadedfc",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "In The Heat Of The Night",
+                                    "uri": "spotify:album:3QtcoigGc0KKzE6mVAkFfY"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Pat Benatar"
+                                            },
+                                            "uri": "spotify:artist:43mhFhQ4JAknA7Ik1bOZuV"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 209360
+                                },
+                                "name": "Heartbreaker",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "93124057",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:22ML0MuFKfw16WejbxsLOy"
+                            }
+                        },
+                        "uid": "c45d96cb6e698f2c"
+                    }
+                ],
+                "pagingInfo": {
+                    "limit": 100,
+                    "offset": 25
+                },
+                "totalCount": 29
+            }
+        }
+    },
+    "extensions": {},
+    "data": {
+        "playlistV2": {
+            "__typename": "Playlist",
+            "content": {
+                "__typename": "PlaylistItemsPage",
+                "items": [
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Panic! At The Disco"
+                                                },
+                                                "uri": "spotify:artist:20JZFwl6HVl6yg8a4H3ZqK"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0223152d9337d6c57b116ed13a",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485123152d9337d6c57b116ed13a",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Death of a Bachelor",
+                                    "uri": "spotify:album:6twKQ0EsUJHVlAr6XBylrj"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Panic! At The Disco"
+                                            },
+                                            "uri": "spotify:artist:20JZFwl6HVl6yg8a4H3ZqK"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 208706
+                                },
+                                "name": "House of Memories",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "684777917",
+                                "trackNumber": 10,
+                                "uri": "spotify:track:2DgdHcjWmO3qd50RzuBLgZ"
+                            }
+                        },
+                        "uid": "6d8b55deb87f28f1"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Anamanaguchi"
+                                                },
+                                                "uri": "spotify:artist:2UwJRAgSOi1zcLkvUNc8XL"
+                                            },
+                                            {
+                                                "profile": {
+                                                    "name": "Hatsune Miku"
+                                                },
+                                                "uri": "spotify:artist:6pNgnvzBa6Bthsv8SrZJYl"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02154c3562dc92bcd302c72c9c",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851154c3562dc92bcd302c72c9c",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273154c3562dc92bcd302c72c9c",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Miku",
+                                    "uri": "spotify:album:4Wcp7Z67RyIbAYl6jmOkLL"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Anamanaguchi"
+                                            },
+                                            "uri": "spotify:artist:2UwJRAgSOi1zcLkvUNc8XL"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Hatsune Miku"
+                                            },
+                                            "uri": "spotify:artist:6pNgnvzBa6Bthsv8SrZJYl"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 223124
+                                },
+                                "name": "Miku",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "69535370",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:7aux5UvnlBDYlrlwoczifW"
+                            }
+                        },
+                        "uid": "84368313e4041067"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "femtanyl"
+                                                },
+                                                "uri": "spotify:artist:53e9n1LucuH3guikmtv180"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02b6633f59fbce571ae61d0664",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851b6633f59fbce571ae61d0664",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273b6633f59fbce571ae61d0664",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "MURDER EVERY 1 U KNOW!",
+                                    "uri": "spotify:album:53J2OTEVQhPTRaA8qyNaLt"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "femtanyl"
+                                            },
+                                            "uri": "spotify:artist:53e9n1LucuH3guikmtv180"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "takihasdied"
+                                            },
+                                            "uri": "spotify:artist:78f6bSDCZQUs8wvPREBGLE"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "EXPLICIT"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 125117
+                                },
+                                "name": "MURDER EVERY 1 U KNOW!",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "911653",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:17iGTeBSC6VtWESUk1YqYh"
+                            }
+                        },
+                        "uid": "46bef7b3b596ced0"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "femtanyl"
+                                                },
+                                                "uri": "spotify:artist:53e9n1LucuH3guikmtv180"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0277f9777d2e9bb3c62518185a",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485177f9777d2e9bb3c62518185a",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27377f9777d2e9bb3c62518185a",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "P3T",
+                                    "uri": "spotify:album:7lO82d2FOdRqUNo2aEyWIi"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "femtanyl"
+                                            },
+                                            "uri": "spotify:artist:53e9n1LucuH3guikmtv180"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "EXPLICIT"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 102857
+                                },
+                                "name": "P3T",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "1384069",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:1w0AFg23E67l57A3RMiXjC"
+                            }
+                        },
+                        "uid": "1a4eb753038049dc"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Synapson"
+                                                },
+                                                "uri": "spotify:artist:5EGOerlVYxwqxaTLEWumBR"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02092b229b23ce24e26ab22ec5",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851092b229b23ce24e26ab22ec5",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273092b229b23ce24e26ab22ec5",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Super 8",
+                                    "uri": "spotify:album:3PAzkKA8BGbN95N1YKzBuB"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Synapson"
+                                            },
+                                            "uri": "spotify:artist:5EGOerlVYxwqxaTLEWumBR"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Holly"
+                                            },
+                                            "uri": "spotify:artist:6givmM5g4kxQD36lUC2H4E"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 175337
+                                },
+                                "name": "Hide Away (feat. Holly)",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "17251998",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:1uthrZMPfRZ1kNcij4wB1K"
+                            }
+                        },
+                        "uid": "91fd79121ba9139e"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Dr. Villain"
+                                                },
+                                                "uri": "spotify:artist:2wcr0Sc8bLx3gMQrQYSZm5"
+                                            },
+                                            {
+                                                "profile": {
+                                                    "name": "Poor Man's Poison"
+                                                },
+                                                "uri": "spotify:artist:0YHgnSkV3S5mvSSCTRWDi5"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e025ac6ca264c451133649a3d3a",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d000048515ac6ca264c451133649a3d3a",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b2735ac6ca264c451133649a3d3a",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Welcome to the Show",
+                                    "uri": "spotify:album:4P3LdUyPHJvo150QNs2M1d"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Dr. Villain"
+                                            },
+                                            "uri": "spotify:artist:2wcr0Sc8bLx3gMQrQYSZm5"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 164583
+                                },
+                                "name": "Welcome to the Show",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "786838",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:22WALFYl4TxEJqp8mwoqYD"
+                            }
+                        },
+                        "uid": "9da2fd076dbb4dbe"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "femtanyl"
+                                                },
+                                                "uri": "spotify:artist:53e9n1LucuH3guikmtv180"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02e83d3198a93599f164f9672d",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851e83d3198a93599f164f9672d",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273e83d3198a93599f164f9672d",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "PUSH UR T3MPRR",
+                                    "uri": "spotify:album:4PL3uZiAhE46XZFIkeZ9gJ"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "femtanyl"
+                                            },
+                                            "uri": "spotify:artist:53e9n1LucuH3guikmtv180"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "EXPLICIT"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 148645
+                                },
+                                "name": "PUSH UR T3MPRR",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "1048285",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:18soZ4afZktcbOaAB0RyFE"
+                            }
+                        },
+                        "uid": "0d9ebb99539a37bf"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Keith Power"
+                                                },
+                                                "uri": "spotify:artist:1CY3FNIK3p5bqE0NYiFMi8"
+                                            },
+                                            {
+                                                "profile": {
+                                                    "name": "Alan Doyle"
+                                                },
+                                                "uri": "spotify:artist:2PBvv7vrSx0SVp3Fz0loqL"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02d44d2cde837a04cee29a38fd",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851d44d2cde837a04cee29a38fd",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273d44d2cde837a04cee29a38fd",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Sleeping in the Cold Below (From \"Warframe\")",
+                                    "uri": "spotify:album:7cPsdxl33kxaYXhJs7F8v3"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Keith Power"
+                                            },
+                                            "uri": "spotify:artist:1CY3FNIK3p5bqE0NYiFMi8"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Alan Doyle"
+                                            },
+                                            "uri": "spotify:artist:2PBvv7vrSx0SVp3Fz0loqL"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Damhnait Doyle"
+                                            },
+                                            "uri": "spotify:artist:0AJWI2oTTVSHbaE6tpzCJB"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 211450
+                                },
+                                "name": "Sleeping in the Cold Below (From \"Warframe\")",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "10584405",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:7nq8DgNdgYGihJrZYB221C"
+                            }
+                        },
+                        "uid": "72d4e1e82cf25df1"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "SAFIA"
+                                                },
+                                                "uri": "spotify:artist:1y07gMlsfAdz2KOvZzyUTB"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0236b2f333e015979c12cec00e",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485136b2f333e015979c12cec00e",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27336b2f333e015979c12cec00e",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Embracing Me - EP",
+                                    "uri": "spotify:album:0CApipOKl1h6jwUXVSxZ8a"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "SAFIA"
+                                            },
+                                            "uri": "spotify:artist:1y07gMlsfAdz2KOvZzyUTB"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 154186
+                                },
+                                "name": "Counting Sheep",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "12386140",
+                                "trackNumber": 2,
+                                "uri": "spotify:track:6JAfKIASRQQMyf1sA4cBq1"
+                            }
+                        },
+                        "uid": "cc2ed9855fe9b35f"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "femtanyl"
+                                                },
+                                                "uri": "spotify:artist:53e9n1LucuH3guikmtv180"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e028092ecd4592d6802c42bec54",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d000048518092ecd4592d6802c42bec54",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b2738092ecd4592d6802c42bec54",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "KATAMARI",
+                                    "uri": "spotify:album:6wjbmZMsDypQDhrdTmDcrx"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "femtanyl"
+                                            },
+                                            "uri": "spotify:artist:53e9n1LucuH3guikmtv180"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "EXPLICIT"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 158216
+                                },
+                                "name": "KATAMARI",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "1668354",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:1lAQkl0GrOlTi5zREtyH9V"
+                            }
+                        },
+                        "uid": "cacbcc249af8d222"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "femtanyl"
+                                                },
+                                                "uri": "spotify:artist:53e9n1LucuH3guikmtv180"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0201b3a0ba15c6cda034f2d4fe",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485101b3a0ba15c6cda034f2d4fe",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27301b3a0ba15c6cda034f2d4fe",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "GIRL HELL 1999",
+                                    "uri": "spotify:album:4ZvebeNHfARLqWoiZaND6z"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "femtanyl"
+                                            },
+                                            "uri": "spotify:artist:53e9n1LucuH3guikmtv180"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "EXPLICIT"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 145371
+                                },
+                                "name": "GIRL HELL 1999",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "1246456",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:3PIccMVZdnMMbSb22ROpn8"
+                            }
+                        },
+                        "uid": "96d492e332fa9689"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Skyfixing"
+                                                },
+                                                "uri": "spotify:artist:7oNQoSI5fptljRAjvVsMdz"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02c9cb1fb25d6a3047e0a3c305",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851c9cb1fb25d6a3047e0a3c305",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273c9cb1fb25d6a3047e0a3c305",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Nightmares",
+                                    "uri": "spotify:album:7jdPFgXuKTjnI3zSzNS7Wg"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Skyfixing"
+                                            },
+                                            "uri": "spotify:artist:7oNQoSI5fptljRAjvVsMdz"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 276010
+                                },
+                                "name": "The Bonnie Song",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "14501102",
+                                "trackNumber": 5,
+                                "uri": "spotify:track:6qUBnm38dI8yYuCKyLN04W"
+                            }
+                        },
+                        "uid": "b6f13082a203e3bc"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Chonny Jash"
+                                                },
+                                                "uri": "spotify:artist:2hvntb0GuCXAFKwgc7X0o5"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e025011018cca4aa7091e08ae93",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d000048515011018cca4aa7091e08ae93",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b2735011018cca4aa7091e08ae93",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Chonny's Charming Chaos Compendium, Vol. 1",
+                                    "uri": "spotify:album:1k31RUIV6B48wjyjtfgiAe"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Chonny Jash"
+                                            },
+                                            "uri": "spotify:artist:2hvntb0GuCXAFKwgc7X0o5"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 206769
+                                },
+                                "name": "The Bidding",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "3502218",
+                                "trackNumber": 15,
+                                "uri": "spotify:track:6UjF2rwLKgnUrt23Onq0rh"
+                            }
+                        },
+                        "uid": "95810000f4103d74"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Sonic The Hedgehog"
+                                                },
+                                                "uri": "spotify:artist:6XLpwODOlX6TZcOXP5xjJl"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02d02dcc45642ce7f6982ca9b3",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851d02dcc45642ce7f6982ca9b3",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273d02dcc45642ce7f6982ca9b3",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Sonic Frontiers Original Soundtrack Stillness & Motion",
+                                    "uri": "spotify:album:52exAJ8OkzVCXKTJ2FrcYA"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "SEGA SOUND TEAM"
+                                            },
+                                            "uri": "spotify:artist:4ShgdWtm52xvEr8uYmT0V6"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Tomoya Ohtani"
+                                            },
+                                            "uri": "spotify:artist:0TdhLJ5G2ICGuYTlNOeut3"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Kellin Quinn"
+                                            },
+                                            "uri": "spotify:artist:3M9XAM57a4qFz3v6Lq27t2"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 2,
+                                "trackDuration": {
+                                    "totalMilliseconds": 264880
+                                },
+                                "name": "Undefeatable",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "21695658",
+                                "trackNumber": 24,
+                                "uri": "spotify:track:6EO56btPzDF3LUrfwlXi2j"
+                            }
+                        },
+                        "uid": "996467286ff2b3f9"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Liam Vickers"
+                                                },
+                                                "uri": "spotify:artist:0yXeAQirPMVzAlhxGvux1s"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0226cf2e2751ee0aec2cf62479",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485126cf2e2751ee0aec2cf62479",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27326cf2e2751ee0aec2cf62479",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Disassembly Required (Teaser Original Soundtrack)",
+                                    "uri": "spotify:album:0BbeoTXqQv0qKki6CDcznI"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Liam Vickers"
+                                            },
+                                            "uri": "spotify:artist:0yXeAQirPMVzAlhxGvux1s"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 120000
+                                },
+                                "name": "Disassembly Required (Teaser Original Soundtrack)",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "3653989",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:1cIfODqkOniMnWWl0EcRMc"
+                            }
+                        },
+                        "uid": "0455232d9313f75a"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "The Hoosiers"
+                                                },
+                                                "uri": "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02340218cd71fdd076b55a8ca5",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851340218cd71fdd076b55a8ca5",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273340218cd71fdd076b55a8ca5",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "The Trick To Life",
+                                    "uri": "spotify:album:5sScGdiKDLwMPQMO688baH"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "The Hoosiers"
+                                            },
+                                            "uri": "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 192493
+                                },
+                                "name": "A Sadness Runs Through Him",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "16444992",
+                                "trackNumber": 5,
+                                "uri": "spotify:track:6sNqMaOltCWGmPjQXXFjpR"
+                            }
+                        },
+                        "uid": "af30c8a3673bfd21"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Omori"
+                                                },
+                                                "uri": "spotify:artist:4DoTDDfW3gkeyb06XrIHlg"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02b080961348b7c4402e0186e9",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851b080961348b7c4402e0186e9",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273b080961348b7c4402e0186e9",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Omori (Original Game Soundtrack), Pt.3",
+                                    "uri": "spotify:album:0ZBx5R4ABubjsJ6yovFJXp"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Omori"
+                                            },
+                                            "uri": "spotify:artist:4DoTDDfW3gkeyb06XrIHlg"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 213264
+                                },
+                                "name": "My Time",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "24109478",
+                                "trackNumber": 58,
+                                "uri": "spotify:track:0HuTlPTyGIkIBlX3Yak9G4"
+                            }
+                        },
+                        "uid": "ed8d960084e70703"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Griffinilla"
+                                                },
+                                                "uri": "spotify:artist:4YbLu4l7vHlJPD9yGjCkRu"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0248ba5a4c2626f866809c8391",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485148ba5a4c2626f866809c8391",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27348ba5a4c2626f866809c8391",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Below the Surface",
+                                    "uri": "spotify:album:7wjKlpAjKql7iNhKitDZmV"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Griffinilla"
+                                            },
+                                            "uri": "spotify:artist:4YbLu4l7vHlJPD9yGjCkRu"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 134857
+                                },
+                                "name": "Below the Surface",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "131120997",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:0Zb0GZW7NcRBGm691EQhGu"
+                            }
+                        },
+                        "uid": "71097b87396b4e68"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Benny"
+                                                },
+                                                "uri": "spotify:artist:0nl9MMpxs0QjMuls72wc8K"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02a692469d2ad93d3d8e620bd1",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851a692469d2ad93d3d8e620bd1",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273a692469d2ad93d3d8e620bd1",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Little Game",
+                                    "uri": "spotify:album:4EoNqhuWAC4f5J2xhz7ZvU"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Benny"
+                                            },
+                                            "uri": "spotify:artist:0nl9MMpxs0QjMuls72wc8K"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 238533
+                                },
+                                "name": "Little Game",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "28313949",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:0ODyahnUlK9G5bT4dA5NCI"
+                            }
+                        },
+                        "uid": "721762979bd17a6e"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Jayn"
+                                                },
+                                                "uri": "spotify:artist:5DWGiPfJYAv3W0o4GKKY5o"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e024214d5ce5faceb290a1a6b51",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d000048514214d5ce5faceb290a1a6b51",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b2734214d5ce5faceb290a1a6b51",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Smoke and Mirrors",
+                                    "uri": "spotify:album:0hAKmpiIGsoVuzgmWy1NnL"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Jayn"
+                                            },
+                                            "uri": "spotify:artist:5DWGiPfJYAv3W0o4GKKY5o"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 282282
+                                },
+                                "name": "Smoke and Mirrors",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "20657221",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:4rkHlyzSXB9wOS7AD1Vt8P"
+                            }
+                        },
+                        "uid": "b352738429c7176f"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "KittenSneeze"
+                                                },
+                                                "uri": "spotify:artist:2WKgR22LeNxOzIllOfH4ZW"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02f8109cf742e15941fd7c6a7f",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851f8109cf742e15941fd7c6a7f",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273f8109cf742e15941fd7c6a7f",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Already Dead",
+                                    "uri": "spotify:album:0vxlmjSvIb5WQamENiZgWm"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "KittenSneeze"
+                                            },
+                                            "uri": "spotify:artist:2WKgR22LeNxOzIllOfH4ZW"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Jason Jeffrey James"
+                                            },
+                                            "uri": "spotify:artist:5TJ2L0ZqgRFWySXCCK7waB"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Muscape"
+                                            },
+                                            "uri": "spotify:artist:6EhyK6gEyFsz1dnxARZ26o"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 158484
+                                },
+                                "name": "Already Dead",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "1109515",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:0dS2TBzhnLcea7663hGW4I"
+                            }
+                        },
+                        "uid": "ca6cbcc306022b4f"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "The Front Bottoms"
+                                                },
+                                                "uri": "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02f383019d67636ff4a77eb2ef",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851f383019d67636ff4a77eb2ef",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273f383019d67636ff4a77eb2ef",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Rose",
+                                    "uri": "spotify:album:7lL8d8WzpXOvCjLBTBuRSa"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "The Front Bottoms"
+                                            },
+                                            "uri": "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 167306
+                                },
+                                "name": "Be Nice To Me",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "77199032",
+                                "trackNumber": 5,
+                                "uri": "spotify:track:7AiyEjzPzmxIyvJVw2g8w3"
+                            }
+                        },
+                        "uid": "6a31f7d9f4ca9572"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "atsuover"
+                                                },
+                                                "uri": "spotify:artist:3Abo5SyDgYdFJUjAZOZfpN"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02eafaab311cc3844e7e65fa5f",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851eafaab311cc3844e7e65fa5f",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273eafaab311cc3844e7e65fa5f",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "UP TO SNUFF! (I'm On Fire)",
+                                    "uri": "spotify:album:5UfMTUCliGNTlJY9E4A9jM"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "atsuover"
+                                            },
+                                            "uri": "spotify:artist:3Abo5SyDgYdFJUjAZOZfpN"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 120000
+                                },
+                                "name": "UP TO SNUFF! (I'm On Fire)",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "1370956",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:6891Uq1C3KygZ5ZlYUrck2"
+                            }
+                        },
+                        "uid": "4ee4ac8c71f2806e"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "TheExorcist"
+                                                },
+                                                "uri": "spotify:artist:4RP2lKGYgYkC0TUiTT2JTR"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0205b8a35b412e8aaa11af081a",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485105b8a35b412e8aaa11af081a",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27305b8a35b412e8aaa11af081a",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Pretty Little Psycho",
+                                    "uri": "spotify:album:27Q0nE4ME6W2swu7Su2zxZ"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "TheExorcist"
+                                            },
+                                            "uri": "spotify:artist:4RP2lKGYgYkC0TUiTT2JTR"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 168163
+                                },
+                                "name": "Pretty Little Psycho",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "28242982",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:5wvLbQI5UNl8XdJIl0BXGG"
+                            }
+                        },
+                        "uid": "530e3b287c2ddb97"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-25T19:54:39.305Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": null,
+                                "name": "HazTheWaz",
+                                "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                                "username": "5hiaw9kro6bceifsexvlgomsd"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Various Artists"
+                                                },
+                                                "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e023b8c38d1cba35f03dd278858",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d000048513b8c38d1cba35f03dd278858",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b2733b8c38d1cba35f03dd278858",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "METAL GEAR RISING REVENGEANCE Vocal Tracks Selection",
+                                    "uri": "spotify:album:3DR0FThvw6I18Ntp3D6kxf"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Jimmy Gnecco"
+                                            },
+                                            "uri": "spotify:artist:5QcGYbIhQiKu472ypOrhJu"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 175506
+                                },
+                                "name": "It Has To Be This Way - Platinum Mix",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "56459765",
+                                "trackNumber": 11,
+                                "uri": "spotify:track:65yNr1EO2TOBEYCz45tuOf"
+                            }
+                        },
+                        "uid": "8e92555fc5718917"
+                    }
+                ],
+                "pagingInfo": {
+                    "limit": 25,
+                    "offset": 0
+                },
+                "totalCount": 29
+            },
+            "attributes": [],
+            "basePermission": "VIEWER",
+            "description": "",
+            "followers": 0,
+            "format": "",
+            "images": {
+                "items": [
+                    {
+                        "extractedColors": {
+                            "colorRaw": {
+                                "hex": "#48A0C8",
+                                "isFallback": false
+                            }
+                        },
+                        "sources": [
+                            {
+                                "height": 640,
+                                "url": "https://mosaic.scdn.co/640/ab67616d00001e02154c3562dc92bcd302c72c9cab67616d00001e0223152d9337d6c57b116ed13aab67616d00001e0277f9777d2e9bb3c62518185aab67616d00001e02b6633f59fbce571ae61d0664",
+                                "width": 640
+                            },
+                            {
+                                "height": 300,
+                                "url": "https://mosaic.scdn.co/300/ab67616d00001e02154c3562dc92bcd302c72c9cab67616d00001e0223152d9337d6c57b116ed13aab67616d00001e0277f9777d2e9bb3c62518185aab67616d00001e02b6633f59fbce571ae61d0664",
+                                "width": 300
+                            },
+                            {
+                                "height": 60,
+                                "url": "https://mosaic.scdn.co/60/ab67616d00001e02154c3562dc92bcd302c72c9cab67616d00001e0223152d9337d6c57b116ed13aab67616d00001e0277f9777d2e9bb3c62518185aab67616d00001e02b6633f59fbce571ae61d0664",
+                                "width": 60
+                            }
+                        ]
+                    }
+                ]
+            },
+            "name": "House of Memories",
+            "ownerV2": {
+                "data": {
+                    "__typename": "User",
+                    "avatar": null,
+                    "name": "HazTheWaz",
+                    "uri": "spotify:user:5hiaw9kro6bceifsexvlgomsd",
+                    "username": "5hiaw9kro6bceifsexvlgomsd"
+                }
+            },
+            "revisionId": "AAAAAjGJrmGR8nSqol/s7X/LTZAyIOE+",
+            "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/playlist/69bN8tqX63Lq1wL9IAOvXA?si=vlRtuFa1S8aCmDPc_M2WjA"
+            },
+            "uri": "spotify:playlist:69bN8tqX63Lq1wL9IAOvXA"
+        }
+    },
+    "extensions": {}
+}
